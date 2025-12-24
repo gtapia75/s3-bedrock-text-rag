@@ -181,4 +181,4 @@ show_hit_images(hits, s3_to_local)
 
 ## 📄 License
 
-MIT (or your preferred license)
+NONE
